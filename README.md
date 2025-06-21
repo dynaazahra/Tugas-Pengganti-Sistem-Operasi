@@ -1,6 +1,6 @@
 # Tugas Pengganti Sistem Operasi 👩🏻‍💻
 
-# 📝 Deskripsi Program “Menu Informasi Jaringan” (Versi Santai)
+# 📝 Deskripsi Program “Menu Informasi Jaringan”
 Program "Menu Informasi Jaringan" ini adalah script sederhana yang dibuat pakai Bash di Linux, terutama cocok buat pengguna Ubuntu. Isinya berupa menu interaktif yang tampil di terminal dengan gaya yang lebih fun dan girly—ada warna-warni, emoji lucu, dan teks yang enak dibaca. Fungsi utamanya adalah bantu kamu lihat info penting soal sistem dan jaringan, kayak tanggal dan waktu sekarang, isi folder kamu, info IP dan status koneksi internet, detail OS dan kernel, kapan Linux pertama kali diinstal, sampai info soal user yang lagi login. Pokoknya, semuanya tinggal pilih aja dari angka 1 sampai 7, tanpa perlu ngetik perintah ribet satu-satu
 
 ## Identitas diri
