@@ -18,21 +18,27 @@ Program "Menu Informasi Jaringan" ini adalah script sederhana yang dibuat pakai 
 
 ## Dokumentasi Menu 
  - Tampilan Keseluruhan Menu
+   
   ![sisop menu utama](https://github.com/user-attachments/assets/259da102-4754-45d5-932f-83c382c4f8fc)
 
 - Menampilkan tanggal dan waktu saat ini ⏰
+  
   ![sisop menu 1](https://github.com/user-attachments/assets/bce95318-8ec1-4e12-ac4b-48716d268b03)
   
 - Menampilkan isi direktori saat ini 📁
+  
 ![sisop menu 2](https://github.com/user-attachments/assets/4dc89b6d-21a1-44fb-8d51-fb5c5065ac37)
 
 - Menampilkan informasi jaringan 🌐
+  
 ![sisop menu 3](https://github.com/user-attachments/assets/cee0511c-6b46-4188-8b4e-521b68e1beb5)
 
 -  Menampilkan detail OS dan kernel 🖥️
+  
 ![sisop menu 4](https://github.com/user-attachments/assets/35f8fecb-87ec-4939-ad8d-93cad2c2c0dc)
 
 - Menampilkan waktu install pertama kali ⏳
+  
 ![sisop menu 5](https://github.com/user-attachments/assets/9a876a0f-0a18-46b0-b0ef-5fde60b58540)
 
 - Info pengguna saat ini 👤
